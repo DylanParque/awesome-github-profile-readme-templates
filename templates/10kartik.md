@@ -26,35 +26,27 @@
 <details>
 <summary>About me</summary>
 
-[//]: # (You must have a lf before the markdown element when inside a block for it to work: https://stackoverflow.com/questions/29368902/how-can-i-wrap-my-markdown-in-an-html-div)
-
 <div align="left">
 
 ```js
 /**
- * Represents me.
- *
+ * Representa mi perfil.
+ * 
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
- *
- * @throws {Punch} To any and all bugs.
- *
- * @returns {Object} Kartik.
+ * @param {string} location - Arequipa, Perú
+ * @param {string} languages - Español, Inglés
+ * @param {string} jobTitle - Universitario
+ * @param {string} interests - Desarrollo Web, IA
+ * @param {string} hobbies - Videojuegos, Música, Dibujar
+ * @param {string} education - Universidad LaSalle
+ * @returns {object} DylanParque
  */
 ```
 
 </div>
 
 </details>
+
 
 <details>
 <summary>Tools</summary>
