@@ -35,16 +35,16 @@
  * Represents me.
  *
  * @constructor
- * @param {string} location - Gondia, Maharashtra, India.
- * @param {string} languagues - English, Hindi, Marathi.
- * @param {string} jobTitle - Software Engineer.
- * @param {string} specialization - Building full-fledged Backend systems and iOS applications.
- * @param {string} interests - AI, Distributed Systems & problem-solving.
- * @param {string} hobbies - Trekking, Reading, gaming & playing music.
- * @param {string} education - BTech Computer Engineering, Viswakarma Institute of Technology, Pune.
- * @param {string} approachable - Yes, to collaborate on exciting projects, don't hesitate to react out.
- * @param {string} stength - Resolute.
- * @param {string} weakness - Shyness.
+ * @param {string} location - Arequipa, Perú
+ * @param {string} languagues - Español, English 50/50 
+ * @param {string} jobTitle - Futuro ingeniero de software
+ * @param {string} specialization - no c xd
+ * @param {string} interests - IA, resolución de problemas
+ * @param {string} hobbies - dibujar, escuchar música, videojuegos
+ * @param {string} education - Universidad LaSalle, Arequipa
+ * @param {string} approachable - Colaborar y participar
+ * @param {string} stength - Trato de mejorar
+ * @param {string} weakness - Un poco distraído
  *
  * @throws {Punch} To any and all bugs.
  *
